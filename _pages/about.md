@@ -34,4 +34,4 @@ Thomas K. Panum, **Zi Wang**, Pengyu Kan, Earlence Fernandes and Somesh Jha. [Ex
 
 **Zi Wang**, Ben Liblit and Thomas Reps. [TOFU: Target-Oriented FUzzer](https://arxiv.org/abs/2004.14375). arXiv preprint arXiv:2004.14375
 
-**Zi Wang**. [A New Strongly Polynomial Algorithm for Computing Fisher Market Equilibria with Spending Constraint Utilities](https://cs.nyu.edu/media/publications/wang_zi.pdf)。 Master Thesis
+**Zi Wang**. [A New Strongly Polynomial Algorithm for Computing Fisher Market Equilibria with Spending Constraint Utilities](https://cs.nyu.edu/media/publications/wang_zi.pdf). Master Thesis
