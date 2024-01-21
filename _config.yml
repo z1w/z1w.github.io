@@ -85,9 +85,9 @@ author:
   bio              : "PhD student in computer sciences"
   location         : "Madison, Wisconsin"
   employer         :
-  pubmed           : ""
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=UOaHqKEAAAAJ&hl=en"
-  email            :
+  email            : "MyInitials (two letters) at cs.wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

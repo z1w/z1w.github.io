@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year CS PhD student at the University of Wisconsin-Madison. My research stems from formalizing computational phonomena of neural networks.
+I am a final-year CS PhD student at the University of Wisconsin-Madison, advised by [Somesh Jha](https://pages.cs.wisc.edu/~jha/). In the past, I was advised by [Ben Liblit](https://pages.cs.wisc.edu/~liblit/). I am affliated with the fantasitic [MadPL](https://madpl.cs.wisc.edu/) group.
+
+My research is at the intersection of programming languages and deep learning. It stems from formalizing the computational phonomena in deep learning, with an emphasis on analyzing the variational properties of neural networks currently.
+
+I studied mathematics and philosophy at the University of Illinois at Urbana Champaign. I also completed a master degree in computer science at the Courant Institute, New York University, before moving to Madison. My research style is greatly influenced by Immanuel Kant and the classical Göttingen school of mathematicians.
 
 Publications
 ======
