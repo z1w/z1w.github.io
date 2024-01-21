@@ -12,9 +12,9 @@ I am a final-year CS PhD student at the University of Wisconsin-Madison, advised
 
 My research is at the intersection of programming languages and deep learning. It stems from formalizing the computational phonomena in deep learning, with an emphasis on analyzing the variational properties of neural networks. My research style is greatly influenced by Immanuel Kant and the classical Göttingen school of mathematicians.
 
-I studied mathematics and philosophy at the University of Illinois at Urbana Champaign. I also completed a master degree in computer science at the Courant Institute, New York University, before moving to Madison. At New York University, my research advisor was [Richard Cole](https://cs.nyu.edu/~cole/).
+I studied mathematics and philosophy at the University of Illinois Urbana-Champaign as an undergraduate. I also completed a master degree in computer science at the Courant Institute, New York University, before moving to Madison. At New York University, my research advisor was [Richard Cole](https://cs.nyu.edu/~cole/).
 
-The best way to reach me is my email: <MyInitials (two letters) at cs.wisc.edu> (for example, <pl@cs.wisc.edu>).
+The best way to reach me is my email: "MyInitials (two letters) at cs.wisc.edu" (for example, <pl@cs.wisc.edu>).
 
 Publications
 ======
