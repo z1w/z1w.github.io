@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year CS PhD student at the University of Wisconsin-Madison, advised by [Somesh Jha](https://pages.cs.wisc.edu/~jha/). In the past, I was advised by [Ben Liblit](https://pages.cs.wisc.edu/~liblit/). I am affliated with the fantasitic [MadPL](https://madpl.cs.wisc.edu/) group. I was also mentored by [Thomas Reps](https://pages.cs.wisc.edu/~reps/), [Aws Albarghouthi](https://pages.cs.wisc.edu/~aws/) and [Yudong Chen](https://pages.cs.wisc.edu/~yudongchen/). 
+I am a final-year CS PhD student at the University of Wisconsin-Madison, advised by [Somesh Jha](https://pages.cs.wisc.edu/~jha/). In the past, I was advised by [Ben Liblit](https://pages.cs.wisc.edu/~liblit/). I am affliated with the fantasitic [madPL](https://madpl.cs.wisc.edu/) group. I was also mentored by [Thomas Reps](https://pages.cs.wisc.edu/~reps/), [Aws Albarghouthi](https://pages.cs.wisc.edu/~aws/) and [Yudong Chen](https://pages.cs.wisc.edu/~yudongchen/). 
 
 My research lies at the intersection of programming languages and deep learning. It stems from formalizing the computational phonomena in deep learning, with an emphasis on analyzing the variational properties of neural networks. My research style is greatly influenced by Immanuel Kant and the classical Göttingen school of mathematicians. Currently, I am very interested in [nonlinear algebra](https://bookstore.ams.org/gsm-211/).
 
@@ -16,7 +16,7 @@ I studied mathematics and philosophy at the University of Illinois Urbana-Champa
 
 The best way to reach me is my email: "MyInitials (two letters) at cs.wisc.edu" (for example, <pl@cs.wisc.edu>).
 
-Publications
+Publications and manuscripts
 ======
 **Zi Wang**, Jihye Choi, Ke Wang and Somesh Jha. Rethinking Diversity in Deep Neural Network Testing. Under Review
 
