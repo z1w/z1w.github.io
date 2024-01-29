@@ -35,3 +35,9 @@ Thomas K. Panum, **Zi Wang**, Pengyu Kan, Earlence Fernandes and Somesh Jha. [Ex
 **Zi Wang**, Ben Liblit and Thomas Reps. [TOFU: Target-Oriented FUzzer](https://arxiv.org/abs/2004.14375). arXiv preprint arXiv:2004.14375
 
 **Zi Wang**. [A New Strongly Polynomial Algorithm for Computing Fisher Market Equilibria with Spending Constraint Utilities](https://cs.nyu.edu/media/publications/wang_zi.pdf). Master Thesis
+
+Miscellaneous
+=======
+My recent favorite album is [RENAISSANCE](https://music.beyonce.com/). Great ideas will come back again and again 🫡.
+
+My MOST favorite movie is [Life of Pi](https://en.wikipedia.org/wiki/Life_of_Pi_(film)). Life is full of metaphors.

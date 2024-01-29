@@ -18,8 +18,8 @@ main:
  # - title: "Blog Posts"
   #  url: /year-archive/
 
-- title: "Miscellaneous"
-  url: /misc/
+#- title: "Miscellaneous"
+#    url: /misc/
     
 
     
