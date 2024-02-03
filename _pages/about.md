@@ -22,7 +22,7 @@ Publications and manuscripts
 
 **Zi Wang**, Somesh Jha and Krishnamurthy (Dj) Dvijotham. Algebraic Neural-network Analysis. Under Review
 
-**Zi Wang**, Aaron Havens, Alexandre Araujo, Yang Zheng, Bin Hu, Yudong Chen and Somesh Jha. [On the Scalability and Memory Efficiency of Semidefinite Programs for Lipschitz Constant Estimation of Neural Networks](https://openreview.net/forum?id=dwzLn78jq7). ICLR 2024
+**Zi Wang**, Aaron Havens, Alexandre Araujo, Yang Zheng, Bin Hu, Yudong Chen and Somesh Jha. [On the Scalability and Memory Efficiency of Semidefinite Programs for Lipschitz Constant Estimation of Neural Networks](https://openreview.net/forum?id=dwzLn78jq7). To appear in ICLR 2024
 
 **Zi Wang**, Gautam Prakriya and Somesh Jha. [A Quantitative Geometric Approach to Neural Network Smoothness](https://openreview.net/forum?id=ZQcpYaE1z1r). NeurIPS 2022
 
