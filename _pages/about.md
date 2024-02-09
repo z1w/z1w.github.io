@@ -40,4 +40,4 @@ Miscellaneous
 =======
 My recent favorite album is [RENAISSANCE](https://music.beyonce.com/). Great ideas will come back again and again 🫡.
 
-My MOST favorite movie is [Life of Pi](https://en.wikipedia.org/wiki/Life_of_Pi_(film)). Life is full of metaphors, and the prototypes underneath the metaphors are abstraction of the world.
+My MOST favorite movie is [Life of Pi](https://en.wikipedia.org/wiki/Life_of_Pi_(film)). Life is full of metaphors, and the prototypes underneath the metaphors are abstractions of the world.
