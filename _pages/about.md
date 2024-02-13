@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year CS PhD student at the University of Wisconsin-Madison, advised by [Somesh Jha](https://pages.cs.wisc.edu/~jha/). In the past, I was advised by [Ben Liblit](https://pages.cs.wisc.edu/~liblit/). I am affliated with the fantasitic [madPL](https://madpl.cs.wisc.edu/) group. I was also mentored by [Thomas Reps](https://pages.cs.wisc.edu/~reps/), [Aws Albarghouthi](https://pages.cs.wisc.edu/~aws/) and [Yudong Chen](https://pages.cs.wisc.edu/~yudongchen/). 
+I am a final-year CS PhD student at the University of Wisconsin-Madison, advised by [Somesh Jha](https://pages.cs.wisc.edu/~jha/). In the past, I was advised by [Ben Liblit](https://pages.cs.wisc.edu/~liblit/). I am affliated with the fantasitic [madPL](https://madpl.cs.wisc.edu/) group. I have also been fortunately mentored by [Thomas Reps](https://pages.cs.wisc.edu/~reps/), [Aws Albarghouthi](https://pages.cs.wisc.edu/~aws/) and [Yudong Chen](https://pages.cs.wisc.edu/~yudongchen/). 
 
 My research lies at the intersection of programming languages and deep learning. It stems from formalizing the computational phonomena in deep learning (We CS folks call formalizing *abstracting*; physicists would call it *modeling*), with an emphasis on analyzing the variational properties of neural networks. My research style is greatly influenced by Immanuel Kant and the classical Göttingen school of mathematicians. Currently, I am very interested in [nonlinear algebra](https://bookstore.ams.org/gsm-211/).
 
@@ -40,4 +40,4 @@ Miscellaneous
 =======
 My recent favorite album is [RENAISSANCE](https://music.beyonce.com/). Great ideas will come back again and again 🫡.
 
-My MOST favorite movie is [Life of Pi](https://en.wikipedia.org/wiki/Life_of_Pi_(film)). Life is full of metaphors, and the prototypes underneath the metaphors are abstractions of the world.
+My MOST favorite movie is [Life of Pi](https://en.wikipedia.org/wiki/Life_of_Pi_(film)). Life is full of metaphors, and the prototypes underneath the metaphors are the innate abstractions of the world.
