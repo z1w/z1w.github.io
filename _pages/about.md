@@ -38,6 +38,6 @@ Thomas K. Panum, **Zi Wang**, Pengyu Kan, Earlence Fernandes and Somesh Jha. [Ex
 
 Miscellaneous
 =======
-My recent favorite album is [RENAISSANCE](https://music.beyonce.com/). Great ideas will come back again and again 🫡.
+My recent favorite album is [RENAISSANCE](https://www.youtube.com/playlist?list=PLk7ySTbOWfFBHahXvFqY2K2wCOvcfYLpG). Great ideas will come back again and again 🫡.
 
 My MOST favorite movie is [Life of Pi](https://en.wikipedia.org/wiki/Life_of_Pi_(film)). Life is full of metaphors, and the prototypes underneath the metaphors are the innate abstractions of the world.
