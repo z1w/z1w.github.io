@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final-year CS PhD student at the University of Wisconsin-Madison, advised by [Somesh Jha](https://pages.cs.wisc.edu/~jha/). In the past, I was advised by [Ben Liblit](https://pages.cs.wisc.edu/~liblit/). I am affliated with the fantasitic [madPL](https://madpl.cs.wisc.edu/) group. I have also been fortunately mentored by [Thomas Reps](https://pages.cs.wisc.edu/~reps/), [Aws Albarghouthi](https://pages.cs.wisc.edu/~aws/) and [Yudong Chen](https://pages.cs.wisc.edu/~yudongchen/). 
 
-My research lies at the intersection of programming languages and deep learning. It stems from formalizing the computational phonomena in deep learning (We CS folks call formalizing *abstracting*; physicists would call it *modeling*), with an emphasis on analyzing the variational properties of neural networks. My research style is greatly influenced by Immanuel Kant and the classical Göttingen school of mathematicians. Currently, I am very interested in [nonlinear algebra](https://bookstore.ams.org/gsm-211/).
+My research lies at the intersection of programming languages and deep learning. It stems from formalizing the computational phonomena in deep learning (We CS folks call formalizing *abstracting*; physicists would call it *modeling*), with an emphasis on analyzing the variational properties of neural networks. My research style is greatly influenced by Immanuel Kant and the classical Göttingen school of mathematicians. Currently, I am working on the homotopy method for large language models testing and analysis.
 
 I studied mathematics and philosophy at the University of Illinois Urbana-Champaign as an undergraduate. I also completed a master degree in computer science at the Courant Institute, New York University, before moving to Madison. At New York University, my research advisor was [Richard Cole](https://cs.nyu.edu/~cole/).
 
@@ -18,11 +18,11 @@ The best way to reach me is my email: "MyInitials (two letters) at cs.wisc.edu" 
 
 Publications and manuscripts
 ======
-**Zi Wang**, Jihye Choi, Ke Wang and Somesh Jha. Rethinking Diversity in Deep Neural Network Testing. Under Review
+**Zi Wang**, **Divyam Anshumaan**, Ashish Hooda, Yudong Chen and Somesh Jha. Relaying Jailbreaks by Unlearning Model Alignment. Under Review
 
 **Zi Wang**, Somesh Jha and Krishnamurthy (Dj) Dvijotham. Algebraic Neural-network Analysis. Under Review
 
-**Zi Wang**, Aaron Havens, Alexandre Araujo, Yang Zheng, Bin Hu, Yudong Chen and Somesh Jha. [On the Scalability and Memory Efficiency of Semidefinite Programs for Lipschitz Constant Estimation of Neural Networks](https://openreview.net/forum?id=dwzLn78jq7). ICLR 2024
+**Zi Wang**, **Bin Hu**, Aaron Havens, Alexandre Araujo, Yang Zheng, Yudong Chen and Somesh Jha. [On the Scalability and Memory Efficiency of Semidefinite Programs for Lipschitz Constant Estimation of Neural Networks](https://openreview.net/forum?id=dwzLn78jq7). ICLR 2024
 
 **Zi Wang**, Gautam Prakriya and Somesh Jha. [A Quantitative Geometric Approach to Neural Network Smoothness](https://openreview.net/forum?id=ZQcpYaE1z1r). NeurIPS 2022
 
@@ -34,10 +34,12 @@ Thomas K. Panum, **Zi Wang**, Pengyu Kan, Earlence Fernandes and Somesh Jha. [Ex
 
 **Zi Wang**, Ben Liblit and Thomas Reps. [TOFU: Target-Oriented FUzzer](https://arxiv.org/abs/2004.14375). arXiv preprint arXiv:2004.14375
 
+**Zi Wang**, Jihye Choi, Ke Wang and Somesh Jha. [Rethinking Diversity in Deep Neural Network Testing](https://arxiv.org/abs/2305.15698). arXiv:2305.15698
+
 **Zi Wang**. [A New Strongly Polynomial Algorithm for Computing Fisher Market Equilibria with Spending Constraint Utilities](https://cs.nyu.edu/media/publications/wang_zi.pdf). Master Thesis
 
 Miscellaneous
 =======
 My recent favorite album is [RENAISSANCE](https://www.youtube.com/playlist?list=PLk7ySTbOWfFBHahXvFqY2K2wCOvcfYLpG). Great ideas will come back again and again 🫡.
 
-My MOST favorite movie is [Life of Pi](https://en.wikipedia.org/wiki/Life_of_Pi_(film)). Life is full of metaphors, and the prototypes underneath the metaphors are the innate abstractions of the world.
+My MOST favorite movie is [Life of Pi](https://en.wikipedia.org/wiki/Life_of_Pi_(film)). Life is full of metaphors, and the archetypes underneath the metaphors are the innate abstractions of the world.
