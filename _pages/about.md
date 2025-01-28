@@ -18,9 +18,9 @@ The best way to reach me is my email: "MyInitials (two letters) at cs.wisc.edu" 
 
 Publications and manuscripts
 ======
-**Zi Wang**, **Divyam Anshumaan**, Ashish Hooda, Yudong Chen and Somesh Jha. Relaying Jailbreaks by Unlearning Model Alignment. Under Review
+**Zi Wang**, **Shiwei Weng**, Mohannad Alhanahnah, Somesh Jha and Tom Reps. PEA: Enhancing LLM Performance on Computational-Reasoning Tasks. In preparation
 
-**Zi Wang**, Somesh Jha and Krishnamurthy (Dj) Dvijotham. Algebraic Neural-network Analysis. Under Review
+**Zi Wang**, **Divyam Anshumaan**, Ashish Hooda, Yudong Chen and Somesh Jha. [Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks](https://arxiv.org/pdf/2410.04234). ICLR 2025
 
 **Zi Wang**, **Bin Hu**, Aaron Havens, Alexandre Araujo, Yang Zheng, Yudong Chen and Somesh Jha. [On the Scalability and Memory Efficiency of Semidefinite Programs for Lipschitz Constant Estimation of Neural Networks](https://openreview.net/forum?id=dwzLn78jq7). ICLR 2024
 
