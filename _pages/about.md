@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final-year CS PhD student at the University of Wisconsin-Madison, advised by [Somesh Jha](https://pages.cs.wisc.edu/~jha/). In the past, I was advised by [Ben Liblit](https://pages.cs.wisc.edu/~liblit/). I am affliated with the fantasitic [madPL](https://madpl.cs.wisc.edu/) group. I have also been fortunately mentored by [Thomas Reps](https://pages.cs.wisc.edu/~reps/), [Aws Albarghouthi](https://pages.cs.wisc.edu/~aws/) and [Yudong Chen](https://pages.cs.wisc.edu/~yudongchen/). 
 
-My research lies at the intersection of programming languages and deep learning. It stems from formalizing the computational phonomena in deep learning (We CS folks call formalizing *abstracting*; physicists would call it *modeling*), with an emphasis on analyzing the variational properties of neural networks. My research style is greatly influenced by Immanuel Kant and the classical Göttingen school of mathematicians. Currently, I am working on the homotopy method for large language models testing and analysis.
+My research lies at the intersection of programming languages and deep learning. It stems from formalizing the computational phonomena in deep learning (We CS folks call formalizing *abstracting*; physicists would call it *modeling*), with an emphasis on analyzing the variational properties of neural networks. My research style is greatly influenced by Immanuel Kant and the classical Göttingen school of mathematicians. My current research focuses on implementing homotopy methods for the analysis and testing of large language models. Concurrently, I am employing meta-programming techniques to investigate and leverage emergent linguistic phenomena within these advanced systems.
 
 I studied mathematics and philosophy at the University of Illinois Urbana-Champaign as an undergraduate. I also completed a master degree in computer science at the Courant Institute, New York University, before moving to Madison. At New York University, my research advisor was [Richard Cole](https://cs.nyu.edu/~cole/).
 
@@ -18,7 +18,7 @@ The best way to reach me is my email: "MyInitials (two letters) at cs.wisc.edu" 
 
 Publications and manuscripts
 ======
-**Zi Wang**, **Shiwei Weng**, Mohannad Alhanahnah, Somesh Jha and Tom Reps. PEA: Enhancing LLM Performance on Computational-Reasoning Tasks. Under Review
+**Zi Wang**, **Shiwei Weng**, Mohannad Alhanahnah, Somesh Jha and Tom Reps. [PEA: Enhancing LLM Performance on Computational-Reasoning Tasks](https://arxiv.org/abs/2502.10938). Under Review
 
 **Zi Wang**, **Divyam Anshumaan**, Ashish Hooda, Yudong Chen and Somesh Jha. [Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks](https://openreview.net/forum?id=uhaLuZcCjH). ICLR 2025
 
