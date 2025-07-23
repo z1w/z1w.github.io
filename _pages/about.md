@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a final-year CS PhD student at the University of Wisconsin-Madison, advised by [Somesh Jha](https://pages.cs.wisc.edu/~jha/). In the past, I was advised by [Ben Liblit](https://pages.cs.wisc.edu/~liblit/). I am affliated with the fantasitic [madPL](https://madpl.cs.wisc.edu/) group. I have also been fortunately mentored by [Thomas Reps](https://pages.cs.wisc.edu/~reps/), [Aws Albarghouthi](https://pages.cs.wisc.edu/~aws/) and [Yudong Chen](https://pages.cs.wisc.edu/~yudongchen/). 
+I am a research scientist at Meta. Previously, I was at the University of Wisconsin–Madison, where I was advised by [Somesh Jha](https://pages.cs.wisc.edu/~jha/), prior to that, by by [Ben Liblit](https://pages.cs.wisc.edu/~liblit/). I was affliated with the fantasitic [madPL](https://madpl.cs.wisc.edu/) group and have had the privilege of being mentored by [Thomas Reps](https://pages.cs.wisc.edu/~reps/), [Aws Albarghouthi](https://pages.cs.wisc.edu/~aws/) and [Yudong Chen](https://pages.cs.wisc.edu/~yudongchen/). 
 
 My research lies at the intersection of programming languages and deep learning. It stems from formalizing the computational phonomena in deep learning (We CS folks call formalizing *abstracting*; physicists would call it *modeling*), with an emphasis on analyzing the variational properties of neural networks. My research style is greatly influenced by Immanuel Kant and the classical Göttingen school of mathematicians. My current research focuses on implementing homotopy methods for the analysis and testing of large language models. Concurrently, I am employing meta-programming techniques to investigate and leverage emergent linguistic phenomena within these advanced systems.
 
