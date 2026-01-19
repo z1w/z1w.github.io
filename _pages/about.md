@@ -17,7 +17,9 @@ The best way to reach me is my email: "MyInitials (two letters) at cs.wisc.edu" 
 
 Publications and manuscripts
 ======
-**Zi Wang**, **Shiwei Weng**, Mohannad Alhanahnah, Somesh Jha and Tom Reps. [PEA: Enhancing LLM Performance on Computational-Reasoning Tasks](https://arxiv.org/abs/2502.10938). Under Review
+**Dissertation**: [Programming Language Principles for AI Systems: Interpretation, Duality and Incremental Computation](https://asset.library.wisc.edu/1711.dl/TWEXJK4IRRYDF9E/R/file-87ee8.pdf). [Slides](https://drive.google.com/file/d/1X2ZhyfC0ImKlJKwXEEg17-D-T3YD5tSM/view?usp=sharing)
+
+**Zi Wang**, **Shiwei Weng**, Mohannad Alhanahnah, Somesh Jha and Tom Reps. [PEA: Enhancing LLM Performance on Computational-Reasoning Tasks](https://arxiv.org/abs/2502.10938). 
 
 **Zi Wang**, **Divyam Anshumaan**, Ashish Hooda, Yudong Chen and Somesh Jha. [Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks](https://openreview.net/forum?id=uhaLuZcCjH). ICLR 2025
 
